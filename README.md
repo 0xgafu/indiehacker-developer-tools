@@ -9,4 +9,7 @@ A curated list of developer tools for indie-hackers.
 ## 📸 Screenshots
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 Start typing or drop a file into the text area to get started.
-- [Snappify](https://snappify.io/) - Beautiful code snippets. 
+- [Snappify](https://snappify.io/) - Beautiful code snippets.
+
+## 📋 Lists
+- [Web3 Developer Tools](https://github.com/0xgafu/web3-developer-tools) - A list of resources for building Web3 apps.
