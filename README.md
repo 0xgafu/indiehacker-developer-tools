@@ -2,6 +2,9 @@
 
 A curated list of developer tools for indie-hackers.
 
+## 🔌 Component libraries
+- [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components built with Radix UI and Tailwind CSS.
+
 ## 💾 Databases
 - [Supabase](https://supabase.com/) - Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.
 - [Firebase](https://firebase.google.com/) - Firebase is a set of hosting services. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications.
